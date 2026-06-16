@@ -1,0 +1,890 @@
+# Translation of Themes - Abiz in Indonesian
+# This file is distributed under the same license as the Themes - Abiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-30 16:51:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Abiz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Abiz is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of Abiz Pro https://demo.themesdaddy.com/abiz-pro/"
+msgstr "Kecepatan Secepat Kilat & Tema Responsif. Abiz adalah tema responsif dan dapat disesuaikan sepenuhnya untuk membuat segala jenis situs web. Panel admin tingkat lanjut akan memungkinkan Anda untuk menyesuaikannya tanpa pengetahuan teknis apa pun. Tema ini ringan, memungkinkan Anda membuat hampir semua jenis situs web seperti blog, portofolio, industri akting dan penembakan, berita trendi total, surat kabar, majalah besar, mode, tema gelap, perawatan hewan peliharaan, satwa liar, arsitektur kayu, pipa ledeng kontraktor, pengecatan estate, desain interior, furnitur kamar, dekorasi rumah, sifat bunga hijau, konstruksi, perusahaan, agensi ganda, promosi bisnis, variasi gelap, industri, Salon kecantikan & spa, fotografi, gym, kebugaran, kesehatan, medis, startup, agen bisnis, firma hukum, perjalanan, LSM, amal, yoga, pendidikan anak-anak, lembaga pelatihan, portal universitas, restoran, toko meta, majalah cepat, reksa dana, keuangan, akuntansi, konsultasi, situs web agen perjalanan. Tema sepenuhnya kompatibel dengan plugin WordPress populer seperti Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp untuk WordPress, bbPress, Importir Demo, WPForms, dan lainnya. Situs WordPress Anda tidak akan pernah kecewa dengan tema ini.  Lihat demo Abiz Pro https://demo.themesdaddy.com/abiz-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Abiz"
+msgstr "Abiz"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:22
+msgid "Share a Good Review"
+msgstr "Bagikan Ulasan yang Bagus"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Need Support ?"
+msgstr "Butuh bantuan ?"
+
+#: core/customizer/abiz-panels-and-sections.php:11
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+msgid "Upgrade to Pro"
+msgstr "Tingkatkan ke Pro"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:816
+msgid "Get started with %1$s"
+msgstr "Mulai dengan %1$s"
+
+#: core/core.php:810
+msgid "Install and activate <strong>Daddy Plus</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instal dan aktifkan plugin <strong>Daddy Plus</strong> untuk memanfaatkan sepenuhnya semua fitur yang ditawarkan tema ini."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:806
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Selamat datang! Terima kasih telah memilih %1$s!"
+
+#: core/core.php:799
+msgid "Theme Screenshot"
+msgstr "Tangkapan Layar Tema"
+
+#: woocommerce/content-product.php:34
+msgid "Sale"
+msgstr "Obral"
+
+#: woocommerce/cart/mini-cart.php:134 woocommerce/cart/mini-cart.php:266
+msgid "No products in the cart."
+msgstr "Tidak ada produk di keranjang."
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:241
+msgid "Checkout"
+msgstr "Checkout"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:201
+msgid "Remove this item"
+msgstr "Hapus item ini"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:176
+msgid "Total:"
+msgstr "Total:"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "Halaman Pembangun"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "Menu Primer"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Halaman Lebar Penuh"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Halaman Depan"
+
+#: footer.php:12
+msgid "scrollingUp"
+msgstr "menggulir ke atas"
+
+#: core/theme-menu/class-bootstrap-navwalker.php:227
+msgid "Add a menu"
+msgstr "Tambah sebuah menu"
+
+#: core/customizer/customizer.php:67
+msgid "Deactivate"
+msgstr "Non-aktifkan"
+
+#: core/customizer/customizer.php:66
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: core/customizer/customizer.php:65
+msgid "Install and Activate"
+msgstr "Instal dan Aktifkan"
+
+#: core/customizer/customizer.php:64
+msgid "Add More Features"
+msgstr "Tambahkan Lebih Banyak Fitur"
+
+#: core/customizer/customizer.php:63
+msgid "Recommended Actions"
+msgstr "Tindakan yang Direkomendasikan"
+
+#. translators: %s: plugin name
+#: core/customizer/customizer.php:57
+msgid "Recommended Plugin: If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "Plugin yang Direkomendasikan: Jika Anda ingin menampilkan semua fitur dan bagian bisnis di FrontPage. silakan instal dan aktifkan plugin %s"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:812
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:845
+msgid "Add Icon"
+msgstr "Tambah Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:807
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:837
+msgid "Remove Icon"
+msgstr "Hapus Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:471
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:643
+msgid "Designation"
+msgstr "Jabatan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:463
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:634
+msgid "Shortcode"
+msgstr "Kode pendek"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:453
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:517
+msgid "Color"
+msgstr "Warna"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:426
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:619
+msgid "Video Url"
+msgstr "URL Video"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Button Label Third"
+msgstr "Label Tombol Ketiga"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:391
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:383
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:573
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:606
+msgid "link"
+msgstr "tautan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:375
+msgid "Button Label second"
+msgstr "Label Tombol kedua"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:357
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Button Label"
+msgstr "Label Tombol"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:350
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+msgid "Description"
+msgstr "Deskripsi"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:342
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "Subtitle 2"
+msgstr "Subtitle 2"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:334
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:533
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:43
+msgid "Customizer Repeater"
+msgstr "Duplikator Penyesuai"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Add new field"
+msgstr "Tambahkan bidang baru"
+
+#: core/customizer/customizer-notice/abiz-customizer-notify.php:113
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#: theme-header.php:60
+msgid "Header Close Menu"
+msgstr "Menu Tutup Tajuk"
+
+#: theme-header.php:51
+msgid "Menu Collaped"
+msgstr "Menu Ciutkan"
+
+#: template-parts/header-search.php:15
+msgid "Search Popup Close"
+msgstr "Tutup Popup Pencarian"
+
+#: template-parts/header-search.php:12
+msgid "Type To Search"
+msgstr "Ketik untuk mencari"
+
+#: template-parts/header-search.php:11
+msgid "Site Search"
+msgstr "Pencarian Situs"
+
+#: template-parts/header-search.php:8
+msgid "Search Popup"
+msgstr "Pencarian Popup"
+
+#: template-parts/content.php:83
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: template-parts/content.php:56
+msgid "Comments"
+msgstr "Komentar"
+
+#: template-parts/content-page.php:38 template-parts/content.php:34
+msgid "not-thumb"
+msgstr "bukan jempol"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian bisa membantu."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan istilah pencarian Anda. Silakan coba lagi dengan beberapa kata kunci yang berbeda."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap untuk mempublikasikan posting pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: template-parts/author-details.php:36
+msgid "View All Post"
+msgstr "Lihat Semua Postingan"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/author-details.php:26
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "Anda belum memasukkan Informasi Biografi Anda. %1$sEdit Profil Anda%2$s sekarang."
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Pencarian untuk:"
+
+#: core/customizer/abiz-panels-and-sections.php:60
+msgid "Footer Setting"
+msgstr "Pengaturan Catatan Kaki"
+
+#: core/customizer/abiz-panels-and-sections.php:52
+msgid "Blog Setting"
+msgstr "Pengaturan Blog"
+
+#: core/customizer/abiz-panels-and-sections.php:36
+msgid "Page Header Setting"
+msgstr "Pengaturan Tajuk Halaman"
+
+#: core/customizer/abiz-panels-and-sections.php:31
+msgid "General Options"
+msgstr "Pilihan Umum"
+
+#: core/customizer/abiz-panels-and-sections.php:24
+msgid "Menu Bar Setting"
+msgstr "Pengaturan Bilah Menu"
+
+#: core/customizer/abiz-panels-and-sections.php:17
+msgid "Top Bar Setting"
+msgstr "Pengaturan Bilah Atas"
+
+#: core/customizer/abiz-general.php:957
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:782
+msgid "None"
+msgstr "Tidak ada"
+
+#: core/customizer/abiz-general.php:956
+msgid "Line Through"
+msgstr "Garis Melalui"
+
+#: core/customizer/abiz-general.php:955
+msgid "Overline"
+msgstr "Overline"
+
+#: core/customizer/abiz-general.php:954
+msgid "Underline"
+msgstr "Garis bawah"
+
+#: core/customizer/abiz-general.php:948
+msgid "Text Decoration"
+msgstr "Dekorasi teks"
+
+#: core/customizer/abiz-general.php:935
+msgid "Capitalize"
+msgstr "Kapitalkan"
+
+#: core/customizer/abiz-general.php:934
+msgid "Lowercase"
+msgstr "Huruf Kecil"
+
+#: core/customizer/abiz-general.php:933
+msgid "Uppercase"
+msgstr "Huruf Besar"
+
+#: core/customizer/abiz-general.php:927
+msgid "Transform"
+msgstr "Transform"
+
+#: core/customizer/abiz-general.php:880
+msgid "Weight"
+msgstr "Bobot"
+
+#: core/customizer/abiz-general.php:865
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: core/customizer/abiz-general.php:851
+#: core/customizer/abiz-panels-and-sections.php:67
+msgid "Body Typography Setting"
+msgstr "Pengaturan Tipografi Tubuh"
+
+#: core/customizer/abiz-general.php:834
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: core/customizer/abiz-general.php:821
+msgid "Footer  Copyright"
+msgstr "Footer  Hak Cipta"
+
+#: core/customizer/abiz-general.php:802
+msgid "Info"
+msgstr "Info"
+
+#: core/customizer/abiz-general.php:782
+msgid "Add New Contact"
+msgstr "Tambahkan Kontak Baru"
+
+#: core/customizer/abiz-general.php:780 core/customizer/abiz-general.php:783
+msgid "Contact"
+msgstr "Kontak"
+
+#: core/customizer/abiz-general.php:914
+msgid "Italic"
+msgstr "Miring"
+
+#: core/customizer/abiz-general.php:913
+msgid "Normal"
+msgstr "Biasa"
+
+#: core/customizer/abiz-general.php:912 core/customizer/abiz-general.php:953
+msgid "Inherit"
+msgstr "Mewarisi"
+
+#: core/customizer/abiz-general.php:907
+msgid "Font Style"
+msgstr "Gaya Font"
+
+#: core/customizer/abiz-general.php:894
+msgid "Black: 900"
+msgstr "Hitam: 900"
+
+#: core/customizer/abiz-general.php:893
+msgid "Extra Bold: 800"
+msgstr "Ekstra Tebal: 800"
+
+#: core/customizer/abiz-general.php:892
+msgid "Bold: 700"
+msgstr "Tebal: 700"
+
+#: core/customizer/abiz-general.php:891
+msgid "Semibold: 600"
+msgstr "Semitebal: 600"
+
+#: core/customizer/abiz-general.php:890
+msgid "Medium: 500"
+msgstr "Sedang: 500"
+
+#: core/customizer/abiz-general.php:889
+msgid "Normal: 400"
+msgstr "Biasa: 400"
+
+#: core/customizer/abiz-general.php:888
+msgid "Book: 300"
+msgstr "Buku: 300"
+
+#: core/customizer/abiz-general.php:887
+msgid "Light: 200"
+msgstr "Cahaya: 200"
+
+#: core/customizer/abiz-general.php:886
+msgid "Thin: 100"
+msgstr "Tipis: 100"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:790
+msgid "Social icons"
+msgstr "Ikon Sosial"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:777
+msgid "Image type"
+msgstr "Jenis gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:766
+msgid "Center"
+msgstr "Tengah"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:762
+msgid "Right"
+msgstr "Kanan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:758
+msgid "Left"
+msgstr "Kiri"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:754
+msgid "Align"
+msgstr "Rata"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:746
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:743
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:781
+msgid "Image"
+msgstr "Gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:708
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:707
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Catatan: Beberapa ikon mungkin tidak ditampilkan di sini. Anda dapat melihat daftar lengkap ikon di %1$s."
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:691
+msgid "Open link in new tab:"
+msgstr "Buka tautan di tab baru:"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:654
+msgid "Delete field"
+msgstr "Hapus isian"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Button Label 3"
+msgstr "Label Tombol 3"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:565
+msgid "Button Label Second"
+msgstr "Label Tombol Kedua"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:487
+msgid "Delete %s"
+msgstr "Hapus %s"
+
+#: core/customizer/abiz-general.php:915
+msgid "oblique"
+msgstr "miring"
+
+#: core/customizer/abiz-general.php:885 core/customizer/abiz-general.php:932
+msgid "Default"
+msgstr "Bawaan"
+
+#: core/customizer/abiz-general.php:753
+msgid "Footer Top"
+msgstr "Footer Atas"
+
+#: core/customizer/abiz-general.php:664
+msgid "Content"
+msgstr "Konten"
+
+#: core/customizer/abiz-general.php:481
+msgid "Label"
+msgstr "Label"
+
+#: core/customizer/abiz-general.php:454
+msgid "Button"
+msgstr "Tombol"
+
+#: core/customizer/abiz-general.php:427 searchform.php:9 searchform.php:11
+msgid "Search"
+msgstr "Cari"
+
+#: core/customizer/abiz-general.php:400
+msgid "Account"
+msgstr "Akun"
+
+#: core/customizer/abiz-general.php:373
+msgid "Cart"
+msgstr "Troli"
+
+#: core/customizer/abiz-general.php:337 core/customizer/abiz-general.php:355
+msgid "Social Icons"
+msgstr "Ikon Sosial"
+
+#: core/customizer/abiz-general.php:310
+msgid "Social Icon"
+msgstr "Ikon Sosial"
+
+#: core/customizer/abiz-general.php:237
+msgid "Info 3"
+msgstr "Informasi 3"
+
+#: core/customizer/abiz-general.php:165
+msgid "Info 2"
+msgstr "Informasi 2"
+
+#: core/customizer/abiz-general.php:149 core/customizer/abiz-general.php:221
+#: core/customizer/abiz-general.php:294 core/customizer/abiz-general.php:495
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:590
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:804
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:826
+msgid "Link"
+msgstr "Taut"
+
+#: core/customizer/abiz-general.php:135 core/customizer/abiz-general.php:207
+#: core/customizer/abiz-general.php:280 core/customizer/abiz-general.php:662
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:326
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Title"
+msgstr "Judul"
+
+#: core/customizer/abiz-general.php:120 core/customizer/abiz-general.php:192
+#: core/customizer/abiz-general.php:264
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:702
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:780
+msgid "Icon"
+msgstr "Ikon"
+
+#: core/customizer/abiz-general.php:93
+msgid "Info 1"
+msgstr "Informasi 1"
+
+#: core/customizer/abiz-general.php:77 core/customizer/abiz-general.php:106
+#: core/customizer/abiz-general.php:178 core/customizer/abiz-general.php:250
+#: core/customizer/abiz-general.php:322 core/customizer/abiz-general.php:386
+#: core/customizer/abiz-general.php:413 core/customizer/abiz-general.php:440
+#: core/customizer/abiz-general.php:466 core/customizer/abiz-general.php:535
+#: core/customizer/abiz-general.php:563 core/customizer/abiz-general.php:605
+#: core/customizer/abiz-general.php:766
+msgid "Enable / Disable ?"
+msgstr "Aktifkan / Nonaktifkan?"
+
+#: core/customizer/abiz-general.php:64
+msgid "Setting"
+msgstr "Pengaturan"
+
+#: core/customizer/abiz-general.php:663
+msgid "Meta"
+msgstr "Meta"
+
+#: core/customizer/abiz-general.php:659
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "Drag & Drop item postingan untuk mengatur ulang urutannya dan juga menyembunyikan serta menampilkan item sesuai kebutuhan dengan mengklik ikon mata."
+
+#: core/customizer/abiz-general.php:648
+msgid "Blog/Archive/Single"
+msgstr "Blog/Arsip/Lajang"
+
+#: core/customizer/abiz-general.php:632
+msgid "Overlay Color"
+msgstr "Warna Hamparan"
+
+#: core/customizer/abiz-general.php:619
+msgid "Opacity"
+msgstr "Opasitas"
+
+#: core/customizer/abiz-general.php:592
+msgid "Page Header"
+msgstr "Header Laman"
+
+#: core/customizer/abiz-general.php:576
+msgid "Scroller Icon"
+msgstr "Ikon Penggulung"
+
+#: core/customizer/abiz-general.php:552
+#: core/customizer/abiz-panels-and-sections.php:43
+msgid "Top Scroller Setting"
+msgstr "Pengaturan Penggulung Atas"
+
+#: core/customizer/abiz-default-options.php:29
+msgid "California, TX 70240"
+msgstr "California, TX 70240"
+
+#: core/core.php:766
+msgid "Mon-Sat: 10- 6 Pm"
+msgstr "Senin-Sabtu: 10- 6 Pm"
+
+#: core/core.php:765
+msgid "Opening Hours"
+msgstr "Jam Buka"
+
+#: core/core.php:759 core/customizer/abiz-default-options.php:25
+msgid "+123 456 7890"
+msgstr "+123 456 7890"
+
+#: core/core.php:752
+msgid "Have Questions?"
+msgstr "Ada pertanyaan?"
+
+#: core/core.php:746 core/customizer/abiz-default-options.php:21
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: core/core.php:727
+msgid "fab fa-tiktok"
+msgstr "fab fa-tiktok"
+
+#: core/core.php:722
+msgid "fab fa-instagram"
+msgstr "fab fa-instagram"
+
+#: core/core.php:717
+msgid "fab fa-x-twitter"
+msgstr "fab fa-x-twitter"
+
+#: core/core.php:713 core/core.php:718 core/core.php:723 core/core.php:728
+msgid "#"
+msgstr "#"
+
+#: core/core.php:712
+msgid "fab fa-facebook"
+msgstr "fab fa-facebook"
+
+#: core/core.php:664
+msgid "Page"
+msgstr "Laman"
+
+#: core/core.php:658
+msgid "Error 404 "
+msgstr "Kesalahan 404 "
+
+#: core/core.php:653
+msgid "Articles posted by "
+msgstr "Artikel diposting oleh "
+
+#: core/core.php:646
+msgid "Posts tagged "
+msgstr "Postingan diberi tag "
+
+#: core/core.php:531
+msgid "Search results for "
+msgstr "Cari hasil untuk "
+
+#: core/core.php:525
+msgid "Archive by category"
+msgstr "Arsipkan berdasarkan kategori"
+
+#: core/core.php:519
+msgid "Home"
+msgstr "Beranda"
+
+#: core/core.php:505
+msgid "Product Category : %s"
+msgstr "Kategori Produk : %s"
+
+#: core/core.php:500
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: core/core.php:498
+msgid "Error 404"
+msgstr "Kesalahan 404"
+
+#: core/core.php:496
+msgid "Tag Archives: %s"
+msgstr "Arsip Tag: %s"
+
+#: core/core.php:494
+msgid "Category Archives: %s"
+msgstr "Arsip Kategori: %s"
+
+#: core/core.php:492
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: core/core.php:490
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#: core/core.php:488
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian: %s"
+
+#: core/core.php:466 template-parts/header-cart.php:21
+#: woocommerce/cart/mini-cart.php:39 woocommerce/cart/mini-cart.php:122
+#: woocommerce/cart/mini-cart.php:169 woocommerce/cart/mini-cart.php:254
+msgid "0"
+msgstr ""
+
+#: core/core.php:256
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Area Widget ini untuk Widget WooCommerce"
+
+#: core/core.php:254
+msgid "WooCommerce Sidebar"
+msgstr "Sidebar WooCommerce"
+
+#: core/core.php:241
+msgid "The Footer Widget Area 4"
+msgstr "The Footer Widget Area 4"
+
+#: core/core.php:239
+msgid "Footer  Sidebar 4"
+msgstr "Footer  Sidebar 4"
+
+#: core/core.php:228
+msgid "The Footer Widget Area 3"
+msgstr "The Footer Widget Area 3"
+
+#: core/core.php:226
+msgid "Footer  Sidebar 3"
+msgstr "Footer  Sidebar 3"
+
+#: core/core.php:215
+msgid "The Footer Widget Area 2"
+msgstr "The Footer Widget Area 2"
+
+#: core/core.php:213
+msgid "Footer  Sidebar 2"
+msgstr "Footer  Sidebar 2"
+
+#: core/core.php:202
+msgid "The Footer Widget Area 1"
+msgstr "The Footer Widget Area 1"
+
+#: core/core.php:745
+msgid "Email Us 24/7"
+msgstr "Kirim Email ke Kami 24/7"
+
+#: core/core.php:200
+msgid "Footer  Sidebar 1"
+msgstr "Footer  Sidebar 1"
+
+#: core/core.php:187 core/core.php:189
+msgid "Main Sidebar Widget"
+msgstr "Widget Bilah Sisi Utama"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:26 comments.php:40
+msgid "Newer Comments"
+msgstr "Komentar Lebih Baru"
+
+#: comments.php:25 comments.php:39
+msgid "Older Comments"
+msgstr "Komentar Lama"
+
+#: comments.php:23 comments.php:37
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: archive.php:11 index.php:15 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-12"
+msgstr "col-lg-12"
+
+#: archive.php:11 index.php:15 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-8"
+msgstr "col-lg-8"
+
+#: 404.php:20
+msgid "BACK TO HOME"
+msgstr "KEMBALI KE RUMAH"
+
+#: 404.php:17
+msgid "The page you are looking is not available or has been removed."
+msgstr "Halaman yang Anda cari tidak tersedia atau telah dihapus."
+
+#: 404.php:16
+msgid "WE ARE SORRY, PAGE NOT FOUND."
+msgstr "KAMI MOHON MAAF, HALAMAN TIDAK DITEMUKAN."
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#: core/customizer/abiz-default-options.php:54
+#: template-parts/content-page.php:76 template-parts/content.php:77
+msgid "Read More"
+msgstr "Baca Lebih Lanjut"
+
+#: core/customizer/abiz-default-options.php:37
+msgid "Get in Touch"
+msgstr "Hubungi Kami"
+
+#: core/customizer/abiz-general.php:731
+msgid "Blog Excerpt Button Label"
+msgstr "Label Tombol Kutipan Blog"
+
+#: core/customizer/abiz-general.php:718
+msgid "Enable / Disable Blog Excerpt Button ?"
+msgstr "Aktifkan / Nonaktifkan Tombol Kutipan Blog?"
+
+#: core/customizer/abiz-general.php:704
+msgid "Blog Excerpt Text"
+msgstr "Kutipan Teks Blog"
+
+#: core/customizer/abiz-general.php:690
+msgid "Blog Excerpt Length"
+msgstr "Panjang Kutipan Blog"
+
+#: core/customizer/abiz-general.php:677
+msgid "Enable / Disable Blog Excerpt ?"
+msgstr "Aktifkan / Nonaktifkan Kutipan Blog?"
+
+#: core/customizer/abiz-general.php:524
+msgid "Sticky Header"
+msgstr "Tajuk Lengket"
+
+#: core/customizer/abiz-general.php:507
+msgid "Open in New Tab ?"
+msgstr "Buka di Tab Baru?"
+
+#: core/customizer/abiz-general.php:45
+msgid "Site Description Font Size"
+msgstr "Ukuran Font Deskripsi Situs"
+
+#: core/customizer/abiz-general.php:31
+msgid "Site Title Font Size"
+msgstr "Ukuran Font Judul Situs"
+
+#: core/customizer/abiz-general.php:17
+msgid "Logo Size"
+msgstr "Ukuran Logo"
+
+#: core/customizer/abiz-default-options.php:57
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr "Hak cipta &salinan; {tahun ini}. Dibuat oleh %s. Didukung oleh %s."
+
+#: core/core.php:758
+msgid "Call Us 24/7"
+msgstr "Hubungi Kami 24/7"
+
+#: core/core.php:753
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/abiz-free/"
+msgstr "https://themesdaddy.com/themes/abiz-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"

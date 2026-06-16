@@ -1,0 +1,405 @@
+/*
+Theme Name: Arvina
+Author: Themes Daddy
+Author URI: https://themesdaddy.com/
+Theme URI: https://themesdaddy.com/themes/arvina-free/
+Description: Lightning Fast Speed & Responsive Theme. Arvina is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of Arvina Pro https://demo.themesdaddy.com/arvina-pro/
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Version: 1.0.23
+Tested up to: 7.0
+Requires PHP: 5.4
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GNU General Public License v2 or later
+Text Domain: arvina
+Slug: arvina
+Template: abiz
+*/
+
+
+:root {
+    --bs-primary: #007cfb;
+	--bs-primary-light: #007cfb38;
+    --bs-secondary:#0431b8;
+}
+
+.arvina-theme .logo a:focus {
+    outline-color: var(--bs-white);
+}
+
+.arvina-theme .above-header .header-widget a:hover, 
+.arvina-theme .above-header .header-widget a:focus {
+	color: var(--bs-white);
+}
+
+.arvina-theme .main-mobile-nav {
+    background: var(--bs-secondary);
+}
+
+.arvina-theme .main-content {
+    backdrop-filter: blur(13px);
+    border-radius: 10px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: linear-gradient(105.91deg, rgba(255, 255, 255, 0.2) 5.12%, rgba(255, 255, 255, 0.075) 77.57%);
+}	
+	
+.info-section-3 .info-box-inner {
+    position: relative;
+    padding: 15px 25px 30px 25px;
+    background: var(--bs-white);
+	box-shadow: 0px 9px 75px rgba(8, 20, 44, 0.09);
+    border-radius: 30px;
+    transition: var(--bs-transition);
+}
+
+.info-section-3 .info-box-inner .count
+ {
+    position: absolute;
+    right: 20px;
+    left: unset;
+    bottom: unset;
+    opacity: .2;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 50px;
+    color: transparent;
+    -webkit-text-stroke: 1px var(--bs-primary);
+}
+
+.info-section-3 .info-box-inner .info-box-icon {
+    position: absolute;
+    left: -15px;
+    top: -15px;
+    width: 100px;
+    height: 100px;
+    line-height: 75px;
+    font-size: 30px;
+    text-align: center;
+    color: var(--bs-white);
+    background: var(--bs-primary);
+    border-radius: 50px;
+    border: 10px solid var(--bs-white);
+    margin: 0;
+    transition: var(--bs-transition);
+	z-index:1;
+}
+
+.info-section-3 .info-box-inner .content-box {
+    margin-top: 80px;
+    position: relative;
+	z-index: 1;
+}
+
+.info-section-3 .info-box-inner .info-box-title a {
+    color: var(--bs-secondary);
+	text-decoration: none;
+}
+
+.info-section-3 .info-content {
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.info-section-3 .info-box-inner .side-border-lines {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 94%;
+    height: 94%;
+    border: 2px dashed var(--bs-primary);
+    margin: auto;
+    border-radius: 30px;
+    z-index: 0;
+}
+
+.info-section-3 .info-box-inner:hover {
+    transform: translateY(-5px);
+	background: var(--bs-secondary);
+}
+
+.info-section-3 .info-box-inner:hover .info-box-icon {
+    background: var(--bs-secondary);
+}
+
+.info-section-3 .info-box-inner:hover .side-border-lines {
+    border-color: var(--bs-white);
+    opacity: 0.4;
+    transition: var(--bs-transition);
+}
+
+.info-section-3 .info-box-inner:hover .info-content {
+    color: var(--bs-white);
+}
+
+.info-section-3 .info-box-inner:hover .info-box-title a{
+    color: var(--bs-white);
+}
+
+.info-section-3 .info-box-inner .info-box-icon:after {
+    top: 8%;
+    left: 8%;
+    transform: translatex(-5%);
+    padding: 0;
+    z-index: 10;
+    border: 2px dashed #fff;
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    content: '';
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    opacity: 0;
+}
+
+.info-section-3 .info-box-inner:hover .info-box-icon:after {
+    -webkit-transition: box-shadow 0.2s;
+    -moz-transition: box-shadow 0.2s;
+    transition: box-shadow 0.2s;
+    webkit-animation: spinAround 9s linear infinite;
+    -moz-animation: spinAround 9s linear infinite;
+    animation: spinAround 9s linear infinite;
+    opacity: 1;
+}
+
+@-webkit-keyframes spinAround {
+	from {
+		-webkit-transform: rotate(0deg)
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+	}
+}
+@-moz-keyframes spinAround {
+	from {
+		-moz-transform: rotate(0deg)
+	}
+	to {
+		-moz-transform: rotate(360deg);
+	}
+}
+@keyframes spinAround {
+	from {
+		transform: rotate(0deg)
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.service-section .service-inner-box-2 .feature-bg-shape{
+    position: absolute;
+    top: 0;
+    width: 264px;
+    height: 273px;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    inset-inline-end: 0;
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.service-section .service-inner-box-2 {
+    position: relative;
+    box-shadow: 0 0px 15px rgba(0, 0, 0, .1);
+    background-color: var(--bs-white);
+}
+
+.service-section .service-inner-box-2:hover .service-title a {
+    color: var(--bs-primary);
+}
+
+.service-section .service-inner-box-2:hover .service-img img{
+	 transform: scale(1.2);
+}
+
+.service-section .service-inner-box-2 .servive-wrap {
+    position: relative;
+}
+
+.service-section .service-inner-box-2 .content-box {
+    padding: 50px 16px 30px;
+}
+
+.service-section .service-inner-box-2 .service-icon {
+    top: 0;
+}
+
+.service-section .service-inner-box-2 .service-title {
+    position: relative;
+    background: unset;
+    box-shadow: none;
+    top: 0;
+}
+
+.service-section .service-inner-box-2 .read-link {
+	display: inline;
+	font-size: inherit;
+    color: var(--bs-secondary);
+    text-decoration: none;
+	background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0 100% / 0 0.18rem no-repeat;
+}
+
+
+.service-section .service-inner-box-2 .read-link:hover,
+.service-section .service-inner-box-2 .read-link:focus {
+    letter-spacing: 0.03rem;
+    background-size: 75% 2px;
+	color: var(--bs-primary);
+}
+
+.service-section .service-inner-box-2 .read-link i {
+	font-size: inherit;
+    background: var(--bs-primary);
+    color: var(--bs-white);
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    margin-left: 5px;
+	transition: all .3s ease;
+	rotate: -40deg;
+}
+
+.service-section .service-inner-box-2 .read-link:hover i,
+.service-section .service-inner-box-2 .read-link:focus i{
+    background: var(--bs-secondary);
+	color: var(--bs-primary);
+	rotate: 0deg;
+}
+
+@media (min-width: 992px) {
+	.arvina-theme .above-header .widget_social_widget li a:hover i, 
+	.arvina-theme .above-header .widget_social_widget li a:focus i {
+		color: var(--bs-white);
+		background-color: var(--bs-secondary);
+	}
+	.arvina-theme .above-header {
+		border-bottom: none;
+	}
+	.arvina-theme .above-header:before {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: -50px;
+		width: 50%;
+		height: 100%;
+		background: var(--bs-primary);
+		transform: skewX(40deg);
+		border-radius: 20px 0 0 0;
+		border-left: 5px solid var(--bs-white);
+	}
+	.arvina-theme .main-navigation:not(.is-sticky-menu) {
+		position: relative;
+	}
+	.arvina-theme .main-navigation .logo:after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: -100px;
+		width: 30%;
+		height: 100%;
+		background: var(--bs-primary);
+		border-radius: 0 0 20px 0;
+		transform: skewX(40deg);
+		border-right: 10px solid var(--bs-white);
+		z-index: -1;
+		box-shadow: 0px 9px 75px rgba(8, 20, 44, 0.09);
+	}
+	.arvina-theme h4.site-title::first-letter {
+		color: var(--bs-white);
+	}
+	.arvina-theme .slider-section .main-content h1 {
+		font-size: 4rem;
+	}
+	.slider-section + .info-section-3 {
+        margin-top: -3.55rem;
+    }
+}
+
+@media (max-width: 991px) {
+	.info-section-3 {
+		margin-top: 2rem;
+	}
+}
+
+.is-large.wc-block-cart .wc-block-cart__totals-title {
+	font-size: 2.5rem;
+}
+
+.wp-block-latest-posts__list .wp-block-latest-posts__post-title {
+    font-size: 1.5rem;
+}
+
+.wp-block-file.has-background { 
+	padding: 0.5rem; 
+}
+
+.sidebar .wp-block-latest-comments li a {
+    color: var(--bs-secondary);
+}
+
+.sidebar .wp-block-latest-comments li a:hover,
+.sidebar .wp-block-latest-comments li a:focus {
+    color: var(--bs-primary);
+}
+
+.about-section .about-video-btn {
+    text-decoration: none;
+}
+
+.woocommerce table.shop_table td a {
+	text-decoration: none;
+}
+
+.footer-main .widget li a:focus {
+    outline: none;
+}
+
+.sidebar .widget li a:focus {
+	outline: none;
+}
+
+.wp-block-avatar img {
+    border-radius: 100%;
+}
+
+.wp-block-post-title a {
+    text-decoration: none;
+} 
+
+.shopping-cart .cart-items .item-name {
+    color: var(--bs-secondary);
+} 
+
+.shopping-cart .cart-items a:hover .item-name,
+.shopping-cart .cart-items a:focus .item-name{
+	color: var(--bs-primary);
+} 
+
+.shopping-cart ul.cart-items li a {
+    text-decoration: none;
+}
+
+table.wc-block-cart-items .wc-block-cart-items__header th{
+    color: var(--bs-secondary);
+}
+
+.wc-block-components-formatted-money-amount {
+    font-weight: 600;
+}
+
+table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity .wc-block-cart-item__remove-link {
+    font-weight: 600;
+}
